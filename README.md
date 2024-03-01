@@ -24,7 +24,7 @@ Getting Started
 To get a local copy up and running, follow these simple steps.
 Installation
 
-    Clone the repository:
+    Clone the repository: https://github.com/gitbiruk2010/Interactive-Recipe-Gallery-with-React
 
 git clone 
 cd recipe-gallery
